@@ -66,3 +66,5 @@ notes on Git push from their website
 
   ##figreuing out the last two steps 
 
+
+# pulling changes to computer 
