@@ -51,8 +51,10 @@ You can connect with developers around the world to ask and answer questions, le
 - work on homeowrk
 - ask questions and explore possibilities
 
-git commit
-git diff
+## git commit
+- use to save changes 
+## git diff
+what does Git diff do? "Diffing is a function that takes two input data sets and outputs the changes between them"
 
 ## Git Push 
 notes on Git push from their website 
