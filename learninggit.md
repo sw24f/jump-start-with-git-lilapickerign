@@ -49,4 +49,7 @@ You can connect with developers around the world to ask and answer questions, le
 ### action items 
 - want training videos
 - work on homeowrk
-- ask questions and explore possibilities 
+- ask questions and explore possibilities
+
+git commit
+git diff
