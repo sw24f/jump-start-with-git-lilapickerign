@@ -61,4 +61,6 @@ notes on Git push from their website
 - the git push command takes two agruments:
 -   a remote name for example orgin
 -   a branch name for example, main
--   for example: git push remote-name branch - main to push your local changes to your online respository 
+-   for example: git push remote-name branch - main to push your local changes to your online respository
+
+  ##figreuing out the last two steps 
