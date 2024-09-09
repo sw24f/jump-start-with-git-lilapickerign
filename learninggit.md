@@ -50,6 +50,7 @@ You can connect with developers around the world to ask and answer questions, le
 - want training videos
 - work on homeowrk
 - ask questions and explore possibilities
+- update task lists
 
 ## git commit
 - use to save changes 
@@ -64,3 +65,4 @@ notes on Git push from their website
 -   for example: git push remote-name branch - main to push your local changes to your online respository
 
   ##figreuing out the last two steps 
+
