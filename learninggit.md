@@ -68,3 +68,4 @@ notes on Git push from their website
 
 
 # pulling changes to computer 
+git pull origin my_remote_branch:my_local_branch
