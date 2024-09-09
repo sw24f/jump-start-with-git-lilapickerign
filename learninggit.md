@@ -53,3 +53,10 @@ You can connect with developers around the world to ask and answer questions, le
 
 git commit
 git diff
+
+## Git Push 
+notes on Git push from their website 
+- the git push command takes two agruments:
+-   a remote name for example orgin
+-   a branch name for example, main
+-   for example: git push remote-name branch - main to push your local changes to your online respository 
