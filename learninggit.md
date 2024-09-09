@@ -69,3 +69,7 @@ notes on Git push from their website
 
 # pulling changes to computer 
 git pull origin my_remote_branch:my_local_branch
+
+Steps to:
+Open a "pull request" (propose changes to the main branch
+"Merge" your branch to the main branch.
